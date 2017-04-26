@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 57247dc6f4dd1064a9062b6edfe6a0da
+timeCreated: 1492523581
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Azeron Cond
+  fontNames:
+  - Azeron Cond
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

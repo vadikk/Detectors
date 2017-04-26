@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 4a96e878e446d3641bd4ba8220baebad
+timeCreated: 1493134759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aura_green_radio_0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aura_green_radio_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.370918, y: 33.09703}
+        - {x: 8.078522, y: 33.967728}
+        - {x: 1.1054688, y: 34.198624}
+        - {x: -6.007286, y: 33.773483}
+        - {x: -12.068954, y: 31.736534}
+        - {x: -20.180481, y: 27.128662}
+        - {x: -25.549606, y: 22.294212}
+        - {x: -29.173244, y: 16.63823}
+        - {x: -31.864067, y: 11.559654}
+        - {x: -33.257374, y: 6.2948227}
+        - {x: -34.24993, y: -0.06535339}
+        - {x: -34.10959, y: -4.0930786}
+        - {x: -33.033375, y: -9.20491}
+        - {x: -31.208675, y: -14.616287}
+        - {x: -28.780403, y: -19.26191}
+        - {x: -24.662437, y: -24.814377}
+        - {x: -21.029472, y: -28.344193}
+        - {x: -16.48587, y: -32.00462}
+        - {x: -11.561317, y: -34.05955}
+        - {x: -7.008339, y: -35.728237}
+        - {x: -3.7409973, y: -36.104183}
+        - {x: 4.678314, y: -36.120403}
+        - {x: 12.731079, y: -34.150917}
+        - {x: 19.791458, y: -30.394516}
+        - {x: 25.437347, y: -26.355865}
+        - {x: 30.545158, y: -19.958443}
+        - {x: 34.175156, y: -13.511032}
+        - {x: 35.840714, y: -6.9637604}
+        - {x: 36.09204, y: -0.09415436}
+        - {x: 35.875465, y: 4.310875}
+        - {x: 34.83541, y: 9.43045}
+        - {x: 32.555595, y: 14.723541}
+        - {x: 28.140022, y: 21.337143}
+        - {x: 24.537071, y: 25.327347}
+        - {x: 19.979675, y: 28.623169}
+        - {x: 16.231903, y: 30.781311}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
